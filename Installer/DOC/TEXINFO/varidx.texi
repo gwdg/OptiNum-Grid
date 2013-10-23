@@ -1,0 +1,7 @@
+@node Variable Index, Data Type Index, Lists of Source Files, Top
+@comment  node-name,  next,  previous,  up
+
+@unnumbered Variable Index
+
+@printindex vr
+

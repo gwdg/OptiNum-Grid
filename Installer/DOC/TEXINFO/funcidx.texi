@@ -1,0 +1,6 @@
+@node Function Index, Concept Index, Data Type Index, Top
+@comment  node-name,  next,  previous,  up
+
+@unnumbered Function Index
+@printindex fn
+

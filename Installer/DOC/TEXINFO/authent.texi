@@ -1,0 +1,25 @@
+@c authent.texi
+@c This file is part of the Optinum Grid Installer User and Reference Manual.
+
+@c Copyright (C) 2010, 2011, 2012 Gesellschaft fuer wissenschaftliche Datenverarbeitung mbh Goettingen
+@c All rights reserved
+
+@c Author:  Laurence D. Finston (LDF)
+
+@c $Id: authent.texi 2565 2010-07-08 12:25:08Z finston $
+
+@c * (1) Top 
+
+@node  Authentication and Authorization, , , , Top
+@chapter Authentication and Authorization
+
+
+@c * (1) Local Variables for Emacs
+  
+@c Local Variables:
+@c mode:Texinfo
+@c abbrev-mode:t
+@c eval:(outline-minor-mode t)
+@c outline-regexp:"@c *\\*+"
+@c eval:(set (make-local-variable 'run-texi2dvi-on-file) "installer.texi")
+@c End:

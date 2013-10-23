@@ -1,0 +1,5 @@
+@node Data Type Index, Function Index, Variable Index, Top
+
+@unnumbered Data Type Index
+
+@printindex tp
