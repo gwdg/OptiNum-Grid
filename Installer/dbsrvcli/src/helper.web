@@ -3,8 +3,6 @@
 @q Created by Laurence D. Finston (LDF) Tue Nov 24 13:41:30 CET 2009 @>
 @q Copied from GNUTLS distribution                                   @>
 
-@q $Id: helper.web 8418 2012-09-20 09:37:43Z finston $  @>
-
 @ Helper functions for GNUTLS examples.
 
 7.3.10 Helper Function for TCP Connections

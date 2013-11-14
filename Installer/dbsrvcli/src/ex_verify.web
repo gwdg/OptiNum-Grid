@@ -1,7 +1,5 @@
 @q ex_verify.web @>
 
-@q $Id: ex_verify.web 8356 2012-05-25 08:01:31Z finston $@>
-
 @ Verify certificate chain.
 \initials{LDF 2009.12.03.}
 
