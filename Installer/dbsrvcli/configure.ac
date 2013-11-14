@@ -3,9 +3,37 @@
 
 #### Copyright (C) 2009, 2010, 2011 Gesellschaft fuer wissenschaftliche Datenverarbeitung mbH
 
-#### $Id: configure.ac 7466 2012-03-16 11:30:42Z finston $
-
 #### * (1) Top
+
+#### This file is part of the OptiNum Grid Installer 
+#### Copyright (C) 2010, 2011, 2012, 2013 Gesellschaft fuer wissenschaftliche Datenverarbeitung mbH Goettingen 
+
+#### The OptiNum Grid Installer is free software; you can redistribute it and/or modify 
+#### it under the terms of the GNU General Public License as published by 
+#### the Free Software Foundation; either version 3 of the License, or 
+#### (at your option) any later version.  
+
+#### The OptiNum Grid Installer is distributed in the hope that it will be useful, 
+#### but WITHOUT ANY WARRANTY; without even the implied warranty of 
+#### MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the 
+#### GNU General Public License for more details.  
+
+#### You should have received a copy of the GNU General Public License          
+#### along with the OptiNum Grid Installer; if not, write to the Free Software                    
+#### Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA 
+
+#### ("@@" stands for a single at-sign in the following paragraph.) 
+
+#### Please send bug reports to Laurence.Finston@@gwdg.de
+
+#### Laurence D. Finston                                                   
+#### Gesellschaft fuer wissenschaftliche Datenverarbeitung mbH Goettingen  
+#### Am Fassberg 11         					         
+#### 37077 Goettingen              					 
+#### Germany                           					                                 
+
+#### Laurence.Finston@@gwdg.de (@@ stands for a single "at" sign.)
+
 
 #### !! TODO: Use macro to search for GNUTLS library.
 #### LDF 2009.12.22.
