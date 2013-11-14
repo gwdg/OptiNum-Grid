@@ -1,0 +1,118 @@
+%% listing.tex
+
+%% Created by Laurence D. Finston (LDF) Tue Feb 23 13:34:56 CET 2010
+
+%% $Id: listing.tex 8356 2012-05-25 08:01:31Z finston $
+
+%% * (1) Top
+
+%% DIN A4 portrait
+
+%% \special{papersize=210mm, 297mm}
+%% \hsize=210mm
+%% \vsize=297mm
+
+%% DIN A4 landscape
+
+\special{papersize=297mm, 210mm}
+\hsize=297mm
+\vsize=210mm
+
+\advance\voffset by -1in
+\advance\hoffset by -1in
+
+\advance\voffset by 2cm
+\advance\hoffset by 1.5cm
+
+\advance\vsize by -3.25cm
+\advance\hsize by -2cm
+
+\parindent=0pt
+
+\input eplain
+
+%% Read starting page number from `pageno.txt'.  The latter is created (or overwritten)
+%% when `installer.dvi' is generated.
+%% LDF 2012.05.21.
+
+%% LDF 2012.05.24.  Not currently needed.
+
+%% \newread\pagein
+%% \openin\pagein=pageno.txt
+
+%% \read\pagein to \A
+
+%% \pageno=\A
+%% \advance\pageno by 1
+%% \closein\pagein
+
+\newcount\pcnt
+
+%% %% ** (2) Title Page and Contents
+
+\font\largebx=cmbx12
+
+\pageno=-1
+
+\begingroup
+\advance\hsize by -.5\hsize
+\centerline{{\largebx OptiNum Installer}}
+\vskip2\baselineskip
+\centerline{{\largebx Parser Output Files}}
+\vskip2\baselineskip
+\centerline{{\largebx Contents}}
+\vskip\baselineskip
+\advance\baselineskip by .5\baselineskip
+\readtocfile
+\vfil\eject
+\endgroup
+
+\pageno=1
+
+%% ** (2) parser.output
+
+
+\pcnt=1
+
+\writetocentry{chapter}{parser.output (Server program optdbsrv)}
+\headline={{\rm {\timestamp}\hss parser.output \the\pcnt\quad\global\advance\pcnt by 1}} 
+\centerline{{\largebx parser.output}} 
+\listing{/home/lfinsto/opt_rep/optinum/Installer/DOC/TEXINFO/parser.otp}
+\vfil\eject
+
+%% ** (2) prsrclnt.output
+
+\pcnt=1
+
+\writetocentry{chapter}{prsrclnt.output (Client program optdbcli)}
+\headline={{\rm {\timestamp}\hss prsrclnt.output \the\pcnt\quad\global\advance\pcnt by 1}}
+\centerline{{\largebx prsrclnt.output}} 
+\listing{/home/lfinsto/opt_rep/optinum/Installer/DOC/TEXINFO/prsrclnt.otp}
+
+\vfil\eject
+
+%% ** (2) prswbsrv.output
+
+\pcnt=1
+
+\writetocentry{chapter}{prswbsrv.output (Web Application optwbsrv)}
+\headline={{\rm {\timestamp}\hss prswbsrv.output \the\pcnt\quad\global\advance\pcnt by 1}}
+\centerline{{\largebx prswbsrv.output}} 
+\listing{/home/lfinsto/opt_rep/optinum/Installer/DOC/TEXINFO/prswbsrv.otp}
+
+\vfil\eject
+
+
+%% ** (2)
+
+\bye
+
+%% * (1) Local Variables for Emacs
+
+%% Local Variables:
+%% mode:plain-TeX
+%% eval:(outline-minor-mode t)
+%% abbrev-mode:t
+%% eval:(read-abbrev-file "~/.abbrev_defs")
+%% outline-regexp:"%% [*\f]+"
+%% End:
