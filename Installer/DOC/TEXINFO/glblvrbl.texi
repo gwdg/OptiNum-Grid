@@ -1,13 +1,12 @@
 @c glblvrbl.texi
 @c Created by Laurence D. Finston (LDF) Wed May  5 14:45:25 CEST 2010
-@c This file is part of the Optinum Grid Installer User and Reference Manual.
 
-@c Copyright (C) 2010, 2011, 2012 Gesellschaft fuer wissenschaftliche Datenverarbeitung mbh Goettingen
-@c All rights reserved
+@c This file is part of the Optinum Grid Installer User and Reference Manual.
+@c Copyright (C) 2010, 2011, 2012, 2013 Gesellschaft fuer wissenschaftliche Datenverarbeitung mbh Goettingen
+@c See the section "GNU Free Documentation License" in the file 
+@c fdl.texi for copying conditions.
 
 @c Author:  Laurence D. Finston (LDF)
-
-@c $Id: glblvrbl.texi 2612 2010-07-21 14:25:53Z finston $
 
 @c * (1)  Global Variables and Constants optdbcli/optdbsrv
 

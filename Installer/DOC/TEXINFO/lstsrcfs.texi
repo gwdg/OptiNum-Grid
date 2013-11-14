@@ -1,18 +1,21 @@
 @c lstsrcfs.texi, Variable Index, Miscellaneous Functions, Top
+
 @c This file is part of the Optinum Grid Manual.
 @c Created by Laurence D. Finston (LDF) 2010-05-31 16:40:47 +0200 (Mon, 31 May 2010)
 
-@c Copyright (C) 2010, 2011, 2012 Gesellschaft fuer wissenschaftliche Datenverarbeitung mbh Goettingen
+@c Copyright (C) 2010, 2011, 2012, 2013 Gesellschaft fuer wissenschaftliche Datenverarbeitung mbh Goettingen
 
-@c All rights reserved
+@c Author:  Laurence D. Finston (LDF)
 
-@c $Id: lstsrcfs.texi 3081 2010-10-13 15:01:36Z finston $
+@c See the section "GNU Free Documentation License" in the file 
+@c fdl.texi for copying conditions.
+
 
 @c * (1) Lists of Source Files
 
 @c @node Lists of Source Files, Variable Index, Utility Function Reference, Top
 
-@node Lists of Source Files, Variable Index, Glossary, Top
+@node Lists of Source Files, FDL, Glossary, Top
 
 @unnumbered Lists of Source Files
 

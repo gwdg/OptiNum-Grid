@@ -1,7 +1,10 @@
 @c friends.texi
 @c Created by Laurence D. Finston (LDF) 2012-02-27 17:21:58 +0100 (Mon, 27 Feb 2012)
 
-@c $Id: friends.texi 8104 2012-05-08 13:33:08Z finston $
+@c Copyright (C) 2012, 2013 Gesellschaft fuer wissenschaftliche Datenverarbeitung mbh Goettingen
+@c Author:  Laurence D. Finston (LDF)
+@c See the section "GNU Free Documentation License" in the file 
+@c fdl.texi for copying conditions.
 
 @c This file contains lists of friends, with cross-references.  LDF 2012.02.28.
 

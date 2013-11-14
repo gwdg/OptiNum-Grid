@@ -1,14 +1,10 @@
 @c glstintp.texi
 @c This file is part of the Optinum Grid Installer User and Reference Manual.
-
-@c Copyright (C) 2012 Gesellschaft fuer wissenschaftliche Datenverarbeitung mbh Goettingen
-@c All rights reserved
-
+@c Copyright (C) 2012, 2013 Gesellschaft fuer wissenschaftliche Datenverarbeitung mbh Goettingen
 @c Created by Laurence D. Finston (LDF) Mon May  7 11:20:35 CEST 2012
-
 @c Author:  Laurence D. Finston (LDF)
-
-@c $Id: sssndttp.texi 7368 2012-02-28 13:47:08Z finston $
+@c See the section "GNU Free Documentation License" in the file 
+@c fdl.texi for copying conditions.
 
 @c * (1) Globus_Site_Info_Type Reference
 

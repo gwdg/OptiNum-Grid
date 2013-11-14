@@ -1,7 +1,11 @@
 @c glblfncs.texi
 @c Created by Laurence D. Finston (LDF) Thu Feb  9 16:26:24 CET 2012
 
-@c $Id: glblfncs.texi 8331 2012-05-24 09:05:48Z finston $ 
+@c This file is part of the Optinum Grid Installer User and Reference Manual.
+@c Copyright (C) 2010, 2011, 2012, 2013 Gesellschaft fuer wissenschaftliche Datenverarbeitung mbh Goettingen
+@c Author:  Laurence D. Finston (LDF)
+@c See the section "GNU Free Documentation License" in the file 
+@c fdl.texi for copying conditions.
 
 @node Global Functions optdbcli/optdbsrv, Server Connection Function Reference, Global Variables and Constants optdbcli/optdbsrv, Top 
 

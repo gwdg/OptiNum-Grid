@@ -1,15 +1,11 @@
 @c globssts.texi
 
 @c Created by Laurence D. Finston (LDF) Thu May 24 11:30:46 CEST 2012
-
 @c This file is part of the Optinum Grid Installer User and Reference Manual.
-
-@c Copyright (C) 2012 Gesellschaft fuer wissenschaftliche Datenverarbeitung mbh Goettingen
-@c All rights reserved
-
+@c Copyright (C) 2012, 2013 Gesellschaft fuer wissenschaftliche Datenverarbeitung mbh Goettingen
 @c Author:  Laurence D. Finston (LDF)
-
-@c $Id: globssts.texi 8356 2012-05-25 08:01:31Z finston $
+@c See the section "GNU Free Documentation License" in the file 
+@c fdl.texi for copying conditions.
 
 @c *** (3) Globus Sites (optdbcli)
 

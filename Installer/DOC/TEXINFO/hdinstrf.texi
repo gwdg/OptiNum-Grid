@@ -4,12 +4,12 @@
 
 @c This file is part of the Optinum Grid Installer User and Reference Manual.
 
-@c Copyright (C) 2012 Gesellschaft fuer wissenschaftliche Datenverarbeitung mbh Goettingen
-@c All rights reserved
+@c Copyright (C) 2012, 2013 Gesellschaft fuer wissenschaftliche Datenverarbeitung mbh Goettingen
 
 @c Author:  Laurence D. Finston (LDF)
 
-@c $Id: hdinstrf.texi 8369 2012-05-29 13:20:41Z finston $
+@c See the section "GNU Free Documentation License" in the file 
+@c fdl.texi for copying conditions.
 
 @c ** (2) Hidden Installation Reference (scrinstl)
 

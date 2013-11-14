@@ -1,14 +1,11 @@
 @c dhprxcrt.texi
 @c This file is part of the Optinum Grid Installer User and Reference Manual.
 
-@c Copyright (C) 2012 Gesellschaft fuer wissenschaftliche Datenverarbeitung mbh Goettingen
-@c All rights reserved
-
+@c Copyright (C) 2012, 2013 Gesellschaft fuer wissenschaftliche Datenverarbeitung mbh Goettingen
 @c Author:  Laurence D. Finston (LDF)
-
 @c Created by Laurence D. Finston (LDF) 2012-01-25 15:03:52 +0100 (Wed, 25 Jan 2012)
-
-@c $Id: dhprxcrt.texi 8257 2012-05-15 12:42:59Z finston $
+@c See the section "GNU Free Documentation License" in the file 
+@c fdl.texi for copying conditions.
 
 @c * (1) Proxy Credential Function Reference
 

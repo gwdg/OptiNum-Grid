@@ -3,12 +3,13 @@
 
 @c Created by Laurence D. Finston (LDF) Thu Jul  8 14:16:06 CEST 2010
 
-@c Copyright (C) 2010, 2011, 2012 Gesellschaft fuer wissenschaftliche Datenverarbeitung mbh Goettingen
-@c All rights reserved
+@c Copyright (C) 2010, 2011, 2012, 2013 Gesellschaft fuer wissenschaftliche Datenverarbeitung mbh Goettingen
 
 @c Author:  Laurence D. Finston (LDF)
 
-@c $Id: webapp.texi 3100 2010-10-14 14:27:42Z finston $
+@c See the section "GNU Free Documentation License" in the file 
+@c fdl.texi for copying conditions.
+
 
 @c * (1) Web Application
 

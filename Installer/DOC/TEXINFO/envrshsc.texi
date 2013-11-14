@@ -1,15 +1,12 @@
 @c envrshsc.texi
 
 @c Created by Laurence D. Finston (LDF) Thu May 24 11:21:56 CEST 2012
-
 @c This file is part of the Optinum Grid Installer User and Reference Manual.
-
-@c Copyright (C) 2012 Gesellschaft fuer wissenschaftliche Datenverarbeitung mbh Goettingen
-@c All rights reserved
-
+@c Copyright (C) 2012, 2013 Gesellschaft fuer wissenschaftliche Datenverarbeitung mbh Goettingen
 @c Author:  Laurence D. Finston (LDF)
+@c See the section "GNU Free Documentation License" in the file 
+@c fdl.texi for copying conditions.
 
-@c $Id: envrshsc.texi 8401 2012-05-31 13:27:35Z finston $
 
 @c *** (3) Environment Shellscripts (optdbcli)
 

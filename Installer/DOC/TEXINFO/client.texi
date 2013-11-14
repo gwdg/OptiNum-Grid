@@ -1,12 +1,11 @@
 @c client.texi
 @c This file is part of the Optinum Grid Installer User and Reference Manual.
 
-@c Copyright (C) 2010, 2011, 2012 Gesellschaft fuer wissenschaftliche Datenverarbeitung mbh Goettingen
-@c All rights reserved
-
+@c Copyright (C) 2010, 2011, 2012, 2013 Gesellschaft fuer wissenschaftliche Datenverarbeitung mbh Goettingen
 @c Author:  Laurence D. Finston (LDF)
 
-@c $Id: client.texi 2657 2010-08-05 13:42:02Z finston $
+@c See the section "GNU Free Documentation License" in the file 
+@c fdl.texi for copying conditions.
 
 @c * (1) Top
 

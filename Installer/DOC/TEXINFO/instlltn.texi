@@ -2,14 +2,14 @@
 
 @c Created by Laurence D. Finston (LDF) Fri Jan 13 16:29:09 CET 2012
 
-@c Copyright (C) 2010, 2011, 2012 Gesellschaft fuer wissenschaftliche Datenverarbeitung mbh Goettingen
-@c All rights reserved
+@c Copyright (C) 2010, 2011, 2012, 2013 Gesellschaft fuer wissenschaftliche Datenverarbeitung mbh Goettingen
 
 @c This file is part of the Optinum Grid Installer User and Reference Manual.
 
 @c Author:  Laurence D. Finston (LDF)
 
-@c $Id: instlltn.texi 8371 2012-05-29 13:36:46Z finston $
+@c See the section "GNU Free Documentation License" in the file 
+@c fdl.texi for copying conditions.
 
 @c * (1) Top 
 

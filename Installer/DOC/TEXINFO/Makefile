@@ -2,7 +2,7 @@
 #### .../optinum/DOC/TEXINFO/Makefile.am
 #### Created by Laurence D. Finston (LDF) Fri Jan 13 17:01:01 CET 2012
 
-#### Copyright (C) 2009, 2010, 2011, 2012 Gesellschaft fuer wissenschaftliche Datenverarbeitung mbH
+#### Copyright (C) 2009, 2010, 2011, 2012, 2013 Gesellschaft fuer wissenschaftliche Datenverarbeitung mbH
 
 #### $Id: Makefile 8382 2012-05-30 12:15:44Z finston $
 
