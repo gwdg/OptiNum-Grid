@@ -24,14 +24,16 @@ SOURCES_MANUAL = authent.texi auxprgrf.texi client.texi database.texi dstngnmt.t
                  utilfncs.texi webapp.texi \
                  parser.output prsrclnt.output
 
+#### listing.pdf listing.ps listing.dvi listing_temp_out.pdf
+
 PURGE_FILES = installer.aux installer.cp installer.cps  \
               installer.fn  installer.fns installer.ky \
               installer.log \
               installer.pg installer.tmp installer.toc installer.tp \
               installer.tps installer.vr installer.vrs \
               *.log \
-              figures.pdf figures.ps figures.dvi figures.mp figures.[0-9] \
-              listing.pdf listing.ps listing.dvi listing_temp_out.pdf
+              figures.pdf figures.ps figures.dvi figures.mp figures.[0-9]
+
 
 CLEAN_FILES = $(PURGE_FILES) installer.dvi installer.html installer.info \
               installer.info-1 installer.ps installer.pdf
@@ -48,7 +50,9 @@ EXTRA_DIST = $(SOURCES_MANUAL)
 
 .PHONY : all
 
-all : dvi ps pdf html html-split info listing.pdf
+# listing.pdf
+
+all : dvi ps pdf html html-split info 
 
 #### *** (3) Info Output
 
@@ -118,15 +122,15 @@ dvi: installer.dvi
 	
 #### *** (3) Parser output files
 
-listing.pdf: listing.ps
-	ps2pdf listing.ps listing_temp_out.pdf 2>/dev/null
-	pdftk listing_temp_out.pdf cat 1-endR output listing.pdf
+# listing.pdf: listing.ps
+# 	ps2pdf listing.ps listing_temp_out.pdf 2>/dev/null
+# 	pdftk listing_temp_out.pdf cat 1-endR output listing.pdf
 
-listing.ps: listing.dvi 
-	dvips -o listing.ps listing.dvi
+# listing.ps: listing.dvi 
+# 	dvips -o listing.ps listing.dvi
 
-listing.dvi: listing.tex installer.dvi parser.otp prsrclnt.otp prswbsrv.otp
-	tex listing.tex
+# listing.dvi: listing.tex installer.dvi parser.otp prsrclnt.otp prswbsrv.otp
+# 	tex listing.tex
 	
 #### *** (3) HTML Output
 
